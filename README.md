@@ -56,6 +56,7 @@ Compare historical performance across different companies.
 
 Use visual summaries for quick investment decision support.
 
+
 🙋‍♀️ Author
 Khushi Jaswani
 Data Analyst & Power BI Enthusiast
