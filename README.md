@@ -3,6 +3,7 @@
 📊 Stock Analysis Dashboard – Power BI
 📁 Project Overview
 This Power BI dashboard provides a comprehensive analysis of stock data from various companies over multiple years. The report includes key statistical metrics and visual insights to support trend identification and investment analysis.
+![Screenshot (44)](https://github.com/user-attachments/assets/f338d310-06f7-479e-9cbd-ce3431293d65)
 
 🧩 Key Features
 📅 Yearly Filter: Interactive slicers to filter data by year (2013–2018).
@@ -32,6 +33,7 @@ Microsoft Power BI Desktop
 Data Sources: Kaggle
 
 Visualization Types: Cards, Slicers, Line Charts, Buttons
+
 ![Screenshot (42)](https://github.com/user-attachments/assets/cea6494b-8cd3-48f1-982e-fa6f75a1ae4c)
 
 📋 How to Use
