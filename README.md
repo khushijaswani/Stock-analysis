@@ -20,8 +20,11 @@ Highest Price (Mean, Median, Min, Max, Std. Dev)
 Lowest Price (Mean, Median, Min, Max, Std. Dev)
 
 📈 Trend Chart: Line chart showing the average closing price over selected years for each company.
+![Screenshot (43)](https://github.com/user-attachments/assets/46889cd4-f9b2-41c5-839a-f3cf49030172)
+
 
 🧠 Descriptive & Trend Analysis: Dedicated pages for deeper insights into stock behaviors.
+![Screenshot (40)](https://github.com/user-attachments/assets/a0f0ea0a-0b9e-4c6d-b92e-3b2708baf541)
 
 🛠 Tools & Technologies
 Microsoft Power BI Desktop
@@ -29,6 +32,7 @@ Microsoft Power BI Desktop
 Data Sources: Kaggle
 
 Visualization Types: Cards, Slicers, Line Charts, Buttons
+![Screenshot (42)](https://github.com/user-attachments/assets/cea6494b-8cd3-48f1-982e-fa6f75a1ae4c)
 
 📋 How to Use
 Open the .pbix file using Power BI Desktop.
@@ -39,6 +43,7 @@ Click on any company name to explore its individual statistics and trend line.
 
 View “Descriptive Analysis” and “Trend Identification” pages for insights.
 
+
 📊 Insights You Can Derive
 Detect price volatility through standard deviation.
 
@@ -47,11 +52,6 @@ Identify growth or decline patterns in closing prices.
 Compare historical performance across different companies.
 
 Use visual summaries for quick investment decision support.
-
-📌 Notes
-The dataset used in this report appears to be anonymized or demo data.
-
-Further enhancements may include forecasting, volume analysis, or real-time data integration.
 
 🙋‍♀️ Author
 Khushi Jaswani
