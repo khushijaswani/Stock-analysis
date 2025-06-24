@@ -1,6 +1,8 @@
 # Stock-analysis
 
 📊 Stock Analysis Dashboard – Power BI
+
+
 📁 Project Overview
 This Power BI dashboard provides a comprehensive analysis of stock data from various companies over multiple years. The report includes key statistical metrics and visual insights to support trend identification and investment analysis.
 
