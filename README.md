@@ -6,6 +6,8 @@ This Power BI dashboard provides a comprehensive analysis of stock data from var
 
 
 🧩 Key Features
+
+
 📅 Yearly Filter: Interactive slicers to filter data by year (2013–2018).
 
 🏢 Company Selection: Buttons to select different companies (e.g., A, AAL, AAP, AAPL, ADBE, CHK, etc.).
@@ -28,6 +30,8 @@ Lowest Price (Mean, Median, Min, Max, Std. Dev)
 ![Screenshot (40)](https://github.com/user-attachments/assets/a0f0ea0a-0b9e-4c6d-b92e-3b2708baf541)
 
 🛠 Tools & Technologies
+
+
 Microsoft Power BI Desktop
 
 Data Sources: Kaggle,Excel
@@ -38,6 +42,8 @@ Visualization Types: Cards, Slicers, Line Charts, Buttons
 ![Screenshot (42)](https://github.com/user-attachments/assets/cea6494b-8cd3-48f1-982e-fa6f75a1ae4c)
 
 📋 How to Use
+
+
 Open the .pbix file using Power BI Desktop.
 
 Use the year buttons to filter data based on your timeframe.
@@ -48,6 +54,8 @@ View “Descriptive Analysis” and “Trend Identification” pages for insight
 
 
 📊 Insights You Can Derive
+
+
 Detect price volatility through standard deviation.
 
 Identify growth or decline patterns in closing prices.
@@ -58,5 +66,7 @@ Use visual summaries for quick investment decision support.
 
 
 🙋‍♀️ Author
+
 Khushi Jaswani
+
 Data Analyst & Power BI Enthusiast
